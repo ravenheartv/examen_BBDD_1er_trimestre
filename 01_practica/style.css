@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4ecf7; 
+    color: #4a148c; 
+    margin: 0;
+  }
+  
+  .tituloywinners {
+    background-color : hotpink; 
+    color: #ffffff; 
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .container {
+    background-color: #f8bbd0; 
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .input_box {
+    padding: 8px;
+    margin-right: 8px;
+  }
+  
+  button {
+    display: block; 
+    background-color: hotpink;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px auto;
+  }
+  
+  .ganador {
+    color: hotpink;
+  }
+  
