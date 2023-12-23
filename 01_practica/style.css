@@ -3,6 +3,11 @@ body {
     background-color: #f4ecf7; 
     color: #4a148c; 
     margin: 0;
+    display: flex;
+    height: 100vh;
+  }
+  div{
+    width: 100%;
   }
   
   .tituloywinners {
@@ -11,7 +16,6 @@ body {
     padding: 10px;
     text-align: center;
   }
-  
   .container {
     background-color: #f8bbd0; 
     padding: 20px;
