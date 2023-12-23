@@ -27,7 +27,7 @@ function sortear(){
 const old_data = localStorage.getItem("lista")
 if(old_data){
   lista = JSON.parse(old_data)
-  lista.forEach((elemento) => {
+  lista.forEach((elemento) => { 
     const p = document.createElement("p")
     p.innerHTML = elemento
     document.querySelector(".resultados").appendChild(p)
